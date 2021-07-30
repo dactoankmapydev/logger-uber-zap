@@ -50,11 +50,11 @@ func logErrorWriter() zapcore.WriteSyncer {
 }
 
 func logInfoWriter() zapcore.WriteSyncer {
-	errFileLog, _ := os.OpenFile("./info.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	infoFileLog, _ := os.OpenFile("./info.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 
 	return zapcore.NewMultiWriteSyncer(
 		zapcore.AddSync(&lumberjack.Logger{
-			Filename: errFileLog.Name(),
+			Filename: infoFileLog.Name(),
 			MaxSize:  500, // megabytes
 			MaxAge:   30,  // days
 		}),
@@ -62,11 +62,11 @@ func logInfoWriter() zapcore.WriteSyncer {
 }
 
 func logDebugWriter() zapcore.WriteSyncer {
-	errFileLog, _ := os.OpenFile("./debug.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	debugFileLog, _ := os.OpenFile("./debug.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 
 	return zapcore.NewMultiWriteSyncer(
 		zapcore.AddSync(&lumberjack.Logger{
-			Filename: errFileLog.Name(),
+			Filename: debugFileLog.Name(),
 			MaxSize:  500, // megabytes
 			MaxAge:   30,  // days
 		}),
