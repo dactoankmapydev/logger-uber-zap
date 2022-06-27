@@ -1,0 +1,68 @@
+{"level":"error","ts":1656337677.4495308,"caller":"logger_uber_zap/main.go:43","msg":"test error","error":"error because test: 1","stacktrace":"main.main\n\t/home/dactoan/go/src/github.com/project/logger_uber_zap/main.go:43\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1656337680.4519825,"caller":"logger_uber_zap/main.go:45","msg":"test log: 2"}
+{"level":"info","ts":1656337683.454246,"caller":"logger_uber_zap/main.go:45","msg":"test log: 3"}
+{"level":"info","ts":1656337686.4564698,"caller":"logger_uber_zap/main.go:45","msg":"test log: 4"}
+{"level":"error","ts":1656337689.4571633,"caller":"logger_uber_zap/main.go:43","msg":"test error","error":"error because test: 5","stacktrace":"main.main\n\t/home/dactoan/go/src/github.com/project/logger_uber_zap/main.go:43\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1656337692.4581947,"caller":"logger_uber_zap/main.go:45","msg":"test log: 6"}
+{"level":"info","ts":1656337695.4603672,"caller":"logger_uber_zap/main.go:45","msg":"test log: 7"}
+{"level":"info","ts":1656337698.4624953,"caller":"logger_uber_zap/main.go:45","msg":"test log: 8"}
+{"level":"info","ts":1656337701.4646833,"caller":"logger_uber_zap/main.go:45","msg":"test log: 9"}
+{"level":"info","ts":1656337704.4651031,"caller":"logger_uber_zap/main.go:45","msg":"test log: 10"}
+{"level":"info","ts":1656337707.4661155,"caller":"logger_uber_zap/main.go:45","msg":"test log: 11"}
+{"level":"error","ts":1656337757.8930612,"caller":"logger_uber_zap/main.go:43","msg":"test error","error":"error because test: 1","stacktrace":"main.main\n\t/home/dactoan/go/src/github.com/project/logger_uber_zap/main.go:43\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1656337760.894118,"caller":"logger_uber_zap/main.go:45","msg":"test log: 2"}
+{"level":"info","ts":1656337763.8962233,"caller":"logger_uber_zap/main.go:45","msg":"test log: 3"}
+{"level":"info","ts":1656337766.8970773,"caller":"logger_uber_zap/main.go:45","msg":"test log: 4"}
+{"level":"error","ts":1656337769.8981757,"caller":"logger_uber_zap/main.go:43","msg":"test error","error":"error because test: 5","stacktrace":"main.main\n\t/home/dactoan/go/src/github.com/project/logger_uber_zap/main.go:43\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1656337772.9004362,"caller":"logger_uber_zap/main.go:45","msg":"test log: 6"}
+{"level":"info","ts":1656337775.9026809,"caller":"logger_uber_zap/main.go:45","msg":"test log: 7"}
+{"level":"info","ts":1656337778.904909,"caller":"logger_uber_zap/main.go:45","msg":"test log: 8"}
+{"level":"info","ts":1656337781.905125,"caller":"logger_uber_zap/main.go:45","msg":"test log: 9"}
+{"level":"info","ts":1656337784.906181,"caller":"logger_uber_zap/main.go:45","msg":"test log: 10"}
+{"level":"info","ts":1656337787.908415,"caller":"logger_uber_zap/main.go:45","msg":"test log: 11"}
+{"level":"error","ts":1656337790.9101639,"caller":"logger_uber_zap/main.go:43","msg":"test error","error":"error because test: 12","stacktrace":"main.main\n\t/home/dactoan/go/src/github.com/project/logger_uber_zap/main.go:43\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1656337793.912336,"caller":"logger_uber_zap/main.go:45","msg":"test log: 13"}
+{"level":"info","ts":1656337796.9145854,"caller":"logger_uber_zap/main.go:45","msg":"test log: 14"}
+{"level":"info","ts":1656337799.91672,"caller":"logger_uber_zap/main.go:45","msg":"test log: 15"}
+{"level":"info","ts":1656337802.918946,"caller":"logger_uber_zap/main.go:45","msg":"test log: 16"}
+{"level":"error","ts":1656337805.921162,"caller":"logger_uber_zap/main.go:43","msg":"test error","error":"error because test: 17","stacktrace":"main.main\n\t/home/dactoan/go/src/github.com/project/logger_uber_zap/main.go:43\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1656337808.9232264,"caller":"logger_uber_zap/main.go:45","msg":"test log: 18"}
+{"level":"info","ts":1656337811.9250782,"caller":"logger_uber_zap/main.go:45","msg":"test log: 19"}
+{"level":"info","ts":1656337814.9272118,"caller":"logger_uber_zap/main.go:45","msg":"test log: 20"}
+{"level":"info","ts":1656337817.9291408,"caller":"logger_uber_zap/main.go:45","msg":"test log: 21"}
+{"level":"info","ts":1656337820.9310863,"caller":"logger_uber_zap/main.go:45","msg":"test log: 22"}
+{"level":"info","ts":1656337823.93323,"caller":"logger_uber_zap/main.go:45","msg":"test log: 23"}
+{"level":"info","ts":1656337826.93549,"caller":"logger_uber_zap/main.go:45","msg":"test log: 24"}
+{"level":"info","ts":1656337829.9371712,"caller":"logger_uber_zap/main.go:45","msg":"test log: 25"}
+{"level":"info","ts":1656337832.9393775,"caller":"logger_uber_zap/main.go:45","msg":"test log: 26"}
+{"level":"info","ts":1656337835.9415445,"caller":"logger_uber_zap/main.go:45","msg":"test log: 27"}
+{"level":"info","ts":1656337838.942087,"caller":"logger_uber_zap/main.go:45","msg":"test log: 28"}
+{"level":"info","ts":1656337841.9428551,"caller":"logger_uber_zap/main.go:45","msg":"test log: 29"}
+{"level":"info","ts":1656337844.9450736,"caller":"logger_uber_zap/main.go:45","msg":"test log: 30"}
+{"level":"error","ts":1656337847.9472878,"caller":"logger_uber_zap/main.go:43","msg":"test error","error":"error because test: 31","stacktrace":"main.main\n\t/home/dactoan/go/src/github.com/project/logger_uber_zap/main.go:43\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1656337850.9495227,"caller":"logger_uber_zap/main.go:45","msg":"test log: 32"}
+{"level":"info","ts":1656337853.95175,"caller":"logger_uber_zap/main.go:45","msg":"test log: 33"}
+{"level":"error","ts":1656337856.953938,"caller":"logger_uber_zap/main.go:43","msg":"test error","error":"error because test: 34","stacktrace":"main.main\n\t/home/dactoan/go/src/github.com/project/logger_uber_zap/main.go:43\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1656337859.9561493,"caller":"logger_uber_zap/main.go:45","msg":"test log: 35"}
+{"level":"info","ts":1656337862.9570832,"caller":"logger_uber_zap/main.go:45","msg":"test log: 36"}
+{"level":"info","ts":1656337865.9580877,"caller":"logger_uber_zap/main.go:45","msg":"test log: 37"}
+{"level":"error","ts":1656337868.9602144,"caller":"logger_uber_zap/main.go:43","msg":"test error","error":"error because test: 38","stacktrace":"main.main\n\t/home/dactoan/go/src/github.com/project/logger_uber_zap/main.go:43\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1656337871.9611347,"caller":"logger_uber_zap/main.go:45","msg":"test log: 39"}
+{"level":"info","ts":1656337874.9633427,"caller":"logger_uber_zap/main.go:45","msg":"test log: 40"}
+{"level":"info","ts":1656337877.9655507,"caller":"logger_uber_zap/main.go:45","msg":"test log: 41"}
+{"level":"info","ts":1656337880.9661307,"caller":"logger_uber_zap/main.go:45","msg":"test log: 42"}
+{"level":"info","ts":1656337883.9682672,"caller":"logger_uber_zap/main.go:45","msg":"test log: 43"}
+{"level":"info","ts":1656337886.9692361,"caller":"logger_uber_zap/main.go:45","msg":"test log: 44"}
+{"level":"info","ts":1656337889.9701076,"caller":"logger_uber_zap/main.go:45","msg":"test log: 45"}
+{"level":"info","ts":1656337892.972235,"caller":"logger_uber_zap/main.go:45","msg":"test log: 46"}
+{"level":"info","ts":1656337895.973032,"caller":"logger_uber_zap/main.go:45","msg":"test log: 47"}
+{"level":"info","ts":1656337898.9732306,"caller":"logger_uber_zap/main.go:45","msg":"test log: 48"}
+{"level":"info","ts":1656337901.9754398,"caller":"logger_uber_zap/main.go:45","msg":"test log: 49"}
+{"level":"info","ts":1656337904.9776618,"caller":"logger_uber_zap/main.go:45","msg":"test log: 50"}
+{"level":"info","ts":1656337907.9781635,"caller":"logger_uber_zap/main.go:45","msg":"test log: 51"}
+{"level":"error","ts":1656337910.9803205,"caller":"logger_uber_zap/main.go:43","msg":"test error","error":"error because test: 52","stacktrace":"main.main\n\t/home/dactoan/go/src/github.com/project/logger_uber_zap/main.go:43\nruntime.main\n\t/usr/local/go/src/runtime/proc.go:250"}
+{"level":"info","ts":1656337913.9825752,"caller":"logger_uber_zap/main.go:45","msg":"test log: 53"}
+{"level":"info","ts":1656337916.9847867,"caller":"logger_uber_zap/main.go:45","msg":"test log: 54"}
+{"level":"info","ts":1656337919.985121,"caller":"logger_uber_zap/main.go:45","msg":"test log: 55"}
+{"level":"info","ts":1656337922.9863145,"caller":"logger_uber_zap/main.go:45","msg":"test log: 56"}
+{"level":"info","ts":1656337925.9876308,"caller":"logger_uber_zap/main.go:45","msg":"test log: 57"}
